@@ -14,7 +14,6 @@
 ![blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![blog](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=donut-vertical)](https://github.com/IagoDSN/github-readme-stats)
 
 Eu sou um estudante do ensino médio apaixonado por programação e automação. Já criei quatro jogos 2D, mostrando minha criatividade e habilidades técnicas. Minha curiosidade e dedicação me impulsionam a explorar novas fronteiras tecnológicas, sempre buscando aprender mais e aperfeiçoar meus projetos. Estou no caminho para me tornar um desenvolvedor de destaque no mundo dos jogos e da automação.⚜️🎮
 
