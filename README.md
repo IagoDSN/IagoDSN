@@ -23,6 +23,6 @@
 ![Tecnologia](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Eu sou um estudante do ensino médio apaixonado por programação e automação. Já criei quatro jogos 2D, mostrando minha criatividade e habilidades técnicas. Minha curiosidade e dedicação me impulsionam a explorar novas fronteiras tecnológicas, sempre buscando aprender mais e aperfeiçoar meus projetos. Estou no caminho para me tornar um desenvolvedor de destaque no mundo dos jogos e da automação.⚜️🎮
+Eu sou um estudante do ensino médio apaixonado por programação e automação. Já criei quatro jogos 2D. Minha curiosidade e dedicação me impulsionam a explorar novas fronteiras tecnológicas, sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo a fazer WebSites via HTML e JS e também C#.⚜️🎮
 
 #### Email: iagodsnunes@gmail.com
