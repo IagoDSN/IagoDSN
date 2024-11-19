@@ -16,7 +16,7 @@
 ![Tecnologia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=donut-vertical)](https://github.com/IagoDSN/github-readme-stats)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=donut-vertical)](https://github.com/IagoDSN/github-readme-stats)
 
 ### Meus Sistemas Operacionais: 
 
