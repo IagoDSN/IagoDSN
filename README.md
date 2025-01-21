@@ -25,4 +25,4 @@
 
 Eu sou um estudante do ensino médio apaixonado por programação e automação. Já criei quatro jogos 2D. Minha curiosidade e dedicação me impulsionam a explorar novas fronteiras tecnológicas, sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo a fazer WebSites via HTML e JS e também C#.⚜️🎮
 
-#### Email: iagodsnunes@gmail.com
+#### Email: iago.diniz.nunes@gmail.com
