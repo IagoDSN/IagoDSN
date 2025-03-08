@@ -1,11 +1,24 @@
 ## Olá👋 Sou o Iago, de Paraguaçu MG
-
+          
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iago.sepininunes)
 [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoDSN)
 
 ### Atualmente estou aprendendo a utilizar a bibilioteca OpenCV em python💻.
 
-![IagoDSN Github stats](https://github-readme-stats.vercel.app/api?username=IagoDSN&show_icons=true&theme=radical)
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=IagoDSN&show_icons=true&theme=radical" alt="IagoDSN Github stats"></td>
+    <td><a href="https://github.com/IagoDSN/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=radical" alt="Linguagens mais utilizadas"></a></td>
+  </tr>
+</table>
+
+### Prototipagem eletrônica
+<div style="text-align: center;">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
+  </a>
+</div>
 
 ### Tecnologias presentes no meu dia a dia:
 
@@ -16,12 +29,15 @@
 ![Tecnologia](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=donut-vertical)](https://github.com/IagoDSN/github-readme-stats)
-
 ### Meus Sistemas Operacionais: 
 
-![Tecnologia](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<div style="text-align: center;">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
+    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="Android">
+  </a>
+</div>
+<br>
 
 Eu sou um estudante do ensino médio apaixonado por programação e automação. Já criei quatro jogos 2D. Minha curiosidade e dedicação me impulsionam a explorar novas fronteiras tecnológicas, sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo a fazer WebSites via HTML e JS e também python.⚜️🎮
 
