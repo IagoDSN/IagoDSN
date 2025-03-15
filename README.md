@@ -17,6 +17,7 @@
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
     <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
     <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
+    <img height="60" width="60" src="https://w7.pngwing.com/pngs/251/511/png-transparent-micropython-esp32-esp8266-microcontroller-github-food-logo-microcontroller.png" alt="Micro-Python">
   </a>
 </div>
 
