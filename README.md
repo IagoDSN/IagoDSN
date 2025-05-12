@@ -42,6 +42,6 @@
 
 Eu sou um estudante do ensino médio apaixonado por programação e automação. Estou sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo dsesign de interface de usuário(UI) e também python.⚜️🎮
 
-#### Acesse meu site: https://iagodsn.github.io/main/pagina-inicial.html
+#### Acesse meu site: https://iagodsn.github.io
 
 #### Email: iago.diniz.nunes@gmail.com
