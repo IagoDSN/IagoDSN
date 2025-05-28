@@ -3,6 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iago_sepini/)
 [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoDSN)
 
+Eu sou um estudante do ensino médio apaixonado por programação e automação. Estou sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo dsesign de interface de usuário(UI) e também python.⚜️🎮
+
 ### Aprendendo a utilizar a bibilioteca OpenCV em python💻.
 
 <table align="center">
@@ -41,8 +43,6 @@
   </a>
 </div>
 <br>
-
-Eu sou um estudante do ensino médio apaixonado por programação e automação. Estou sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo dsesign de interface de usuário(UI) e também python.⚜️🎮
 
 #### Acesse meu site: https://iagodsn.github.io/main/index.html
 
