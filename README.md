@@ -9,7 +9,7 @@ Eu sou um estudante do ensino médio apaixonado por programação e automação.
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=IagoDSN&show_icons=true&theme=radical" alt="IagoDSN Github stats"></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IagoDSN&show_icons=true&theme=radical"></td>
     <td><a href="https://github.com/IagoDSN/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=radical" alt="Linguagens mais utilizadas"></a></td>
   </tr>
 </table>
