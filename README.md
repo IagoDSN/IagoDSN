@@ -1,27 +1,23 @@
-## Olá👋 Sou o Iago, de Paraguaçu MG
-          
+## 👋 Olá! Eu sou o Iago
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Programador+em+evolução;Automação+e+tecnologia;Python+%7C+UI+Design" />
+
+#### 💻 Estudante de tecnologia no ensino médio  
+#### 🎮 Interessado em programação, automação e projetos práticos  
+#### 🧠 Atualmente aprendendo UI Design e Python (OpenCV e TensorFlow)
+
+<br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iago_sepini/)
 [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoDSN)
-
-Eu sou um estudante do ensino médio apaixonado por programação e automação. Estou sempre buscando aprender mais e aperfeiçoar meus projetos. Atualmente estou aprendendo dsesign de interface de usuário(UI) e também python.⚜️🎮
-
-### Aprendendo a utilizar a bibilioteca OpenCV em python💻.
+<br>
 
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IagoDSN&show_icons=true&theme=radical"></td>
-    <td><a href="https://github.com/IagoDSN/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=radical" alt="Linguagens mais utilizadas"></a></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=radical" /></td>
   </tr>
 </table>
-
-### Prototipagem eletrônica
-<div style="text-align: center;">
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
-    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
-    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi">
-    <img height="60" width="60" src="https://w7.pngwing.com/pngs/251/511/png-transparent-micropython-esp32-esp8266-microcontroller-github-food-logo-microcontroller.png" alt="Micro-Python">
-  </a>
-</div>
 
 ### Habilidades:
 
@@ -30,23 +26,44 @@ Eu sou um estudante do ensino médio apaixonado por programação e automação.
 ![Tecnologia](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![blog](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Tecnologia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tecnologia](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+### Prototipagem eletrônica
+<div align="left">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
+</div>
 
 ### Meus Sistemas Operacionais: 
 
 <div style="text-align: center;">
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
     <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
     <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="Android">
-  </a>
 </div>
 <br>
 
-#### Acesse meu site: https://iagodsn.github.io/main/index.html
+## 🚀 Projetos em atuação
 
-#### Email: iago.diniz.nunes@gmail.com
+- Site Web em Java 
+- App educacional em Flutter  
+- Projeto para aprendizado de Bootstrap
+- Olimpiadas Brasileira de robótica
 
-Hello.World("System.out.println"); 
+<br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&theme=tokyo-night">
+
+## Contato
+
+📧 iago.diniz.nunes@gmail.com  
+📷 Instagram: @iago_sepini  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IagoDSN&theme=radical">
+</div>
+<br>
+            
+```java
+Hello.World("System.out.println");
+```
