@@ -3,13 +3,13 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Programador+em+evolução;Automação+e+tecnologia;Python+%7C+UI+Design" />
 
 #### 💻 Estudante de tecnologia no ensino médio  
-#### 🎮 Interessado em programação, automação e projetos práticos  
-#### 🧠 Atualmente aprendendo UI Design e Python (OpenCV e TensorFlow)
+#### 🎮 Focado em programação, automação e projetos práticos  
+#### 🧠 Aprendendo UI Design e Python (OpenCV + TensorFlow)
 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iago_sepini/)
-[![blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iago-nunes-2509a83ba)
+[![blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-nunes-2509a83ba)
 [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoDSN)
 <br>
 
@@ -47,13 +47,13 @@
 
 ## 🚀 Projetos em atuação
 
-- Site Web em Java 
-- App educacional em Flutter  
-- Projeto para aprendizado de Bootstrap
-- Olimpiadas Brasileira de robótica
+- [Sistema Web em Java](https://github.com/IagoDSN/JavaWeb2026)
+- [App educacional em Flutter](https://github.com/IagoDSN/DartCode)
+- [Projeto com Bootstrap](https://github.com/IagoDSN/Web-Design-II)
+- [Olimpíada Brasileira de Robótica](https://github.com/IagoDSN/OBR_AutoBots)
 
 <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
 
 ## Contato
 
