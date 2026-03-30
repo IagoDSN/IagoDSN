@@ -8,9 +8,9 @@
 
 <br>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iago.diniz.nunes@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iago_sepini/)
-[![blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-nunes-2509a83ba)
-[![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IagoDSN)
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-nunes-2509a83ba)
 <br>
 
 <table align="center">
@@ -54,11 +54,6 @@
 
 <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
-
-## Contato
-
-📧 iago.diniz.nunes@gmail.com  
-📷 Instagram: @iago_sepini  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IagoDSN&theme=radical">
