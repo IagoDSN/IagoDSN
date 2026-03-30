@@ -53,12 +53,7 @@
 - [Olimpíada Brasileira de Robótica](https://github.com/IagoDSN/OBR_AutoBots)
 
 <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IagoDSN&theme=radical">
-</div>
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
             
 ```java
 Hello.World("System.out.println");
