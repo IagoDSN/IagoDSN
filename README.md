@@ -37,13 +37,6 @@
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 
-### Meus Sistemas Operacionais: 
-
-<div style="text-align: center;">
-    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg">
-    <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" alt="Android">
-</div>
-<br>
 
 ## 🚀 Projetos em atuação
 
