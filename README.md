@@ -15,8 +15,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IagoDSN&show_icons=true&theme=radical"></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=radical" /></td>
+    <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IagoDSN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
 
