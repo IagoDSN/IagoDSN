@@ -4,7 +4,7 @@
 
 #### 💻 Estudante de tecnologia no ensino médio IFSULDEMINAS - Machado MG
 #### 🎮 Focado em programação, automação e projetos práticos  
-#### 🧠 Aprendendo UI Design e Python (OpenCV + TensorFlow)
+#### ⚙️ Aprendendo Backend com Python & APIs (FastAPI) e Implementação de LLMs
 
 <br>
 
@@ -31,6 +31,7 @@
 ![Tecnologia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### Prototipagem eletrônica
 <div align="left">
