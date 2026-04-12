@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Iago
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Programador+em+evolução;Automação+e+tecnologia;Python+%7C+UI+Design" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=BF00FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Programador+em+evolução;Automação+e+tecnologia;Python+%7C+Modelos+LLMs" />
 
 #### 💻 Estudante de tecnologia no ensino médio IFSULDEMINAS - Machado MG
 #### 🎮 Focado em programação, automação e projetos práticos  
@@ -20,27 +20,27 @@
   </tr>
 </table>
 
-### Habilidades:
+## Tecnologias e Ferramentas
 
-![Tecnologia](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tecnologia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Tecnologia](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-plain.svg" width="50" height="50" alt="VBScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="50" height="50" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="50" height="50" alt="JavaScript">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="50" height="50" alt="MySQL">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" height="50" alt="Git" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" height="50" alt="TensorFlow" /></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="50" height="50" alt="Arduino" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="50" height="50" alt="Raspberry Pi" /></a>
+</p>
 
-### Prototipagem eletrônica
-<div align="left">
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
-</div>
+<br>
 
-
-## 🚀 Projetos em atuação
+## Projetos em atuação
 
 - [Olimpíada Brasileira de Robótica](https://github.com/IagoDSN/OBR_AutoBots)
 - [Agente de IA (Nexus IA)](https://github.com/IagoDSN/Nexus_IA)
