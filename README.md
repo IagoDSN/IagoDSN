@@ -57,8 +57,8 @@
 
 ## Projetos em atuação
 
-- [Olimpíada Brasileira de Robótica](https://github.com/IagoDSN/OBR_AutoBots)
 - [Agente de IA (Nexus IA)](https://github.com/IagoDSN/Nexus_IA)
+- [Olimpíada Brasileira de Robótica](https://github.com/IagoDSN/OBR_AutoBots)
 - [App educacional em Flutter](https://github.com/IagoDSN/DartCode)
 - [Projeto com Bootstrap](https://github.com/IagoDSN/Web-Design-II)
 
