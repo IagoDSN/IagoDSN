@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IagoDSN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&theme=tokyonight"/></td>
+    <td><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDSN&layout=compact&langs_count=8&theme=tokyonight"/></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@
   <img width="5" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" height="50" alt="javascript"  />
   <img width="5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" alt="TypeScript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&perline=4&titles=true" width="50" alt="TypeScript" />
   <img width="5" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="50" alt="MySQL"  />
   <img width="5" />
