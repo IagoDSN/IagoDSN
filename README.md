@@ -60,9 +60,9 @@
 ## Projetos em atuação
 
 - [Agente de IA (Nexus IA)](https://github.com/IagoDSN/Nexus_IA)
+- [Cassino Online JavaWeb](https://github.com/IagoDSN/PigJackpot)
 - [Olimpíada Brasileira de Robótica](https://github.com/IagoDSN/OBR_AutoBots)
 - [App educacional em Flutter](https://github.com/IagoDSN/DartCode)
-- [Projeto com Bootstrap](https://github.com/IagoDSN/Web-Design-II)
 
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoDSN&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
